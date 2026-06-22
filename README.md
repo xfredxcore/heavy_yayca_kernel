@@ -1,4 +1,4 @@
-# heavy-yayca-kernel / тяжёлая-яйца-kernel
+# heavy-yayca-kernel / тяжёлые-яйца-kernel
 
 <img width="772" height="516" alt="image" src="https://github.com/user-attachments/assets/bc9710ac-e457-4cac-b6fd-75898643ab33" />
 
