@@ -11,7 +11,7 @@ This is not Linux. This is a pizdec OS for educational purposes and suffering.
 
 ### Build & Run
 ```bash
-git clone https://github.com/xfredxcore/heavy-yayca-kernel.git
+git clone https://github.com/xfredxcore/heavy_yayca_kernel.git
 cd heavy-yayca-kernel
 make clean && make
 make qemu
